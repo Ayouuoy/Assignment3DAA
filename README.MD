@@ -109,11 +109,3 @@ The project uses the `main` branch and five feature branches:
 - `feature/metrics`
 
 The final working version is marked with the tag `v1.0`.
-
-## AI Usage
-
-ChatGPT was used to assist with code development, debugging, testing, and documentation. The implementation and results were reviewed as part of the assignment.
-
-## Conclusion
-
-This project demonstrates how different graph algorithms solve network and scheduling problems. It also shows how algorithm correctness and complexity can be tested and compared using reproducible operation counts.
